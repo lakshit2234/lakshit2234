@@ -240,9 +240,13 @@ class LakshitSaini:
 
 ## 🚀 &nbsp; F E A T U R E D &nbsp; P R O J E C T S
 
+*👆 Click any project to expand the details.*
+
 </div>
 
-### 🧠 MIMIC — Hybrid LSTM–Diffusion Trajectory Synthesis
+<details open>
+<summary><b>🧠 &nbsp; MIMIC — Hybrid LSTM–Diffusion Trajectory Synthesis</b></summary>
+
 > *The research that didn't just pass academic review — it fooled bot detectors.*
 
 <table>
@@ -279,9 +283,11 @@ class LakshitSaini:
 </tr>
 </table>
 
----
+</details>
 
-### 🔍 InsightCrew — Multi-Agent Research & Content Engine
+<details>
+<summary><b>🔍 &nbsp; InsightCrew — Multi-Agent Research & Content Engine</b></summary>
+
 > *Three agents. One goal. Zero manual research.*
 
 <table>
@@ -307,6 +313,8 @@ class LakshitSaini:
 <br/>
 
 [![View Repo](https://img.shields.io/badge/GitHub-insight--crew-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a)](https://github.com/lakshit2234/insight-crew)
+<!-- 🔧 REPLACE the URL below with your real Streamlit Cloud link -->
+[![Live Demo](https://img.shields.io/badge/▶_Try_it_Live-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d1b2a)](https://YOUR-INSIGHTCREW-APP.streamlit.app)
 
 `Agentic AI` `Multi-Agent` `RAG` `LLM`
 
@@ -314,9 +322,11 @@ class LakshitSaini:
 </tr>
 </table>
 
----
+</details>
 
-### 📈 StonkSensei — Agentic LLM Financial Intelligence System
+<details>
+<summary><b>📈 &nbsp; StonkSensei — Agentic LLM Financial Intelligence System</b></summary>
+
 > *Real-time financial intelligence, dual-agent architecture, streaming inference.*
 
 <table>
@@ -342,6 +352,8 @@ class LakshitSaini:
 <br/>
 
 [![View Repo](https://img.shields.io/badge/GitHub-StonkSensei-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a)](https://github.com/lakshit2234/StonkSensei)
+<!-- 🔧 REPLACE the URL below with your real deployed link (or delete this line if not deployed) -->
+[![Live Demo](https://img.shields.io/badge/▶_Try_it_Live-Demo-00d4ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1b2a)](https://YOUR-STONKSENSEI-APP-URL)
 
 `Fintech AI` `Streaming LLM` `Agentic`
 
@@ -349,9 +361,11 @@ class LakshitSaini:
 </tr>
 </table>
 
----
+</details>
 
-### 🗣️ Speech Disfluency Detection & Remediation
+<details>
+<summary><b>🗣️ &nbsp; Speech Disfluency Detection & Remediation</b></summary>
+
 > *Fine-tuning self-supervised speech models for clinical-grade stutter detection.*
 
 <table>
@@ -384,9 +398,11 @@ class LakshitSaini:
 </tr>
 </table>
 
----
+</details>
 
-### 🤟 SignSpeakAI — Real-Time Sign–Speech Translation
+<details>
+<summary><b>🤟 &nbsp; SignSpeakAI — Real-Time Sign–Speech Translation</b></summary>
+
 > *Making communication barrier-free with multimodal AI.*
 
 <table>
@@ -410,9 +426,11 @@ class LakshitSaini:
 </tr>
 </table>
 
----
+</details>
 
-### 🛰️ INR-AD — Anomaly Detection via Implicit Neural Representations
+<details>
+<summary><b>🛰️ &nbsp; INR-AD — Anomaly Detection via Implicit Neural Representations</b></summary>
+
 > *SIREN networks meet satellite telemetry.*
 
 [![View Repo](https://img.shields.io/badge/GitHub-INR--AD-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a)](https://github.com/lakshit2234/INR-AD)
@@ -420,6 +438,8 @@ class LakshitSaini:
 Unsupervised anomaly scoring on SMAP satellite telemetry using a SIREN architecture (implicit neural representations). Fully modular, reproducible codebase with benchmarked results.
 
 `SIREN` `Anomaly Detection` `Satellite Telemetry` `Unsupervised Learning`
+
+</details>
 
 <img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
@@ -521,6 +541,11 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 <br/>
 
+<!-- ░░░ Rotating dev quote — changes on every refresh ░░░ -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%"/>
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=lakshit2234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshit2234&theme=tokyonight&hide_border=true&background=0d1b2a&ring=00d4ff&fire=ff4500&currStreakLabel=00d4ff" width="49%" />
 
@@ -538,6 +563,17 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 </picture>
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions)</sub></summary>
+
+<!--START_SECTION:activity-->
+<!-- This list is generated automatically — see .github/workflows/activity.yml -->
+<!--END_SECTION:activity-->
+
+</details>
 
 <img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
