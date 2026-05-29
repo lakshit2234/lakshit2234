@@ -1,50 +1,45 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  SETUP: place the /assets folder (quantum-hero.svg,            ║
+  ║  capabilities.svg, quantum-divider.svg) in your repo root,     ║
+  ║  next to this README.md. The custom SVGs are SMIL-animated     ║
+  ║  and animate natively on GitHub. No build step required.       ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ANIMATED BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░ CUSTOM ANIMATED HERO (hosted in your repo) ░░░ -->
+<img src="./assets/quantum-hero.svg" width="100%" alt="Lakshit Saini"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:00d4ff&height=200&section=header&text=Lakshit%20Saini&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+That+Think%F0%9F%A7%A0;Hybrid+LSTM+%E2%80%94+Diffusion+%E2%80%94+Agentic+AI%F0%9F%A4%96;From+Research+Lab+to+Production+Deployment%F0%9F%9A%80;IEEE-Level+ML+Research+%7C+2+Published+Papers%F0%9F%93%84;Pune%2C+India+%E2%86%92+Global+Impact%F0%9F%8C%8D" alt="Typing SVG" />
+<!-- ░░░ TYPING SVG ░░░ -->
+<a href="https://github.com/lakshit2234">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+Intelligent+Systems+That+Think%F0%9F%A7%A0;Hybrid+LSTM+%E2%80%94+Diffusion+%E2%80%94+Agentic+AI%F0%9F%A4%96;Exploring+Quantum+ML+%26+Quantum+Federated+Learning%E2%9A%9B%EF%B8%8F;From+Research+Lab+to+Production+Deployment%F0%9F%9A%80;2x+Published+Researcher+%7C+IEEE-Level+ML%F0%9F%93%84" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- CORE IDENTITY BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=lakshit2234&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/lakshit2234)
-[![GitHub followers](https://img.shields.io/github/followers/lakshit2234?style=for-the-badge&color=00d4ff&labelColor=0d1b2a&label=FOLLOWERS)](https://github.com/lakshit2234?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/lakshit2234?style=for-the-badge&color=7c3aed&labelColor=0d1b2a&label=FOLLOWERS)](https://github.com/lakshit2234?tab=followers)
 [![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Research_%26_AI_Roles-00d4ff?style=for-the-badge&labelColor=0d1b2a)](mailto:lakshitsaini1098@gmail.com)
 
 <br/>
 
-<!-- SOCIAL LINKS -->
-<a href="mailto:lakshitsaini1098@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-lakshitsaini1098-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a"/>
-</a>
-<a href="https://linkedin.com/in/lakshit-saini1306">
-  <img src="https://img.shields.io/badge/LinkedIn-lakshit--saini1306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a"/>
-</a>
-<a href="https://github.com/lakshit2234">
-  <img src="https://img.shields.io/badge/GitHub-lakshit2234-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a"/>
-</a>
+<a href="mailto:lakshitsaini1098@gmail.com"><img src="https://img.shields.io/badge/Gmail-lakshitsaini1098-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a"/></a>
+<a href="https://linkedin.com/in/lakshit-saini1306"><img src="https://img.shields.io/badge/LinkedIn-lakshit--saini1306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a"/></a>
+<a href="https://github.com/lakshit2234"><img src="https://img.shields.io/badge/GitHub-lakshit2234-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a"/></a>
 
 <br/><br/>
 
-> **`"Designing intelligence — from behavioral trajectories to autonomous agents."`**
-> 
+> **`"Designing intelligence — from behavioral trajectories to autonomous agents to the quantum edge."`**
+>
 > 📍 Pune, India &nbsp;|&nbsp; 🎓 B.Tech CSE (AI/ML) · CGPA 9.1 &nbsp;|&nbsp; 🏆 2× Published Researcher &nbsp;|&nbsp; ⚡ 4× Award Winner
 
 </div>
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        WHO AM I                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ WHO AM I ═══════════════ -->
 <div align="center">
 
 ## 🧬 &nbsp; W H O &nbsp; A M &nbsp; I
@@ -56,27 +51,29 @@ class LakshitSaini:
     """
     Third-year AI/ML Engineer who doesn't just study intelligence —
     he builds it, publishes it, and ships it to production.
+    Now extending the stack into the quantum regime.
     """
 
-    identity     = "AI Engineer × Researcher × Builder"
-    university   = "DY Patil International University, Pune"
-    cgpa         = 9.1 / 10
-    
+    identity   = "AI Engineer × Researcher × Builder"
+    university = "DY Patil International University, Pune"
+    cgpa       = 9.1 / 10
+
     current_obsessions = [
         "Hybrid LSTM–Diffusion architectures for human-like synthesis",
         "Agentic LLM systems with multi-agent orchestration",
+        "Quantum ML: variational circuits for hybrid quantum-classical models",
+        "Quantum Federated Learning: privacy-preserving distributed QML",
         "Speech disfluency detection via self-supervised learning",
         "AI security: prompt injection & adversarial robustness",
     ]
 
     research_mission = """
-        Bridge the gap between cutting-edge ML research and 
-        real-world production systems — where theory meets deployment.
+        Bridge cutting-edge ML research and real-world production systems —
+        and probe what quantum computation adds when classical hits its ceiling.
     """
 
     superpower = "Turning research ideas into IEEE-quality papers AND live demos"
-    
-    fun_fact = "Built a bot-evasion system so human-like it fooled 100% of detectors 🤫"
+    fun_fact   = "Built a bot-evasion system so human-like it fooled 100% of detectors 🤫"
 ```
 
 <br/>
@@ -86,34 +83,79 @@ class LakshitSaini:
 <tr>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/-Research-0d1b2a?style=for-the-badge&logo=academia&logoColor=00d4ff"/><br/>
-<b>2 Publications</b><br/>
-<sub>IEEE · IJSREM</sub>
+<b>2 Publications</b><br/><sub>IEEE · IJSREM</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/-Awards-0d1b2a?style=for-the-badge&logo=trophy&logoColor=f5a623"/><br/>
-<b>4 Awards</b><br/>
-<sub>National · State · University</sub>
+<b>4 Awards</b><br/><sub>National · State · University</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/-Projects-0d1b2a?style=for-the-badge&logo=rocket&logoColor=00d4ff"/><br/>
-<b>6 Projects</b><br/>
-<sub>Research + Production</sub>
+<b>6 Projects</b><br/><sub>Research + Production</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/-Datasets-0d1b2a?style=for-the-badge&logo=database&logoColor=00d4ff"/><br/>
-<b>212,568 Samples</b><br/>
-<sub>Custom behavioral dataset</sub>
+<b>212,568 Samples</b><br/><sub>Custom behavioral dataset</sub>
 </td>
 </tr>
 </table>
 </div>
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH ARSENAL                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ QUANTUM FRONTIER ═══════════════ -->
+<div align="center">
 
+## ⚛️ &nbsp; Q U A N T U M &nbsp; F R O N T I E R
+
+*Where classical ML plateaus, I start asking quantum questions.*
+
+</div>
+
+> My newest research direction: pushing machine learning beyond classical limits.
+> I'm building intuition and prototypes around **hybrid quantum–classical models** and
+> **privacy-preserving distributed learning** — the natural next layer on top of my
+> diffusion, agentic, and behavioral-AI work.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚛️ Quantum Machine Learning**
+- Variational Quantum Circuits (VQC) as trainable layers
+- Quantum kernels & feature maps for classification
+- Hybrid quantum–classical autograd pipelines
+- Barren-plateau-aware ansatz design
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Quantum Federated Learning**
+- Distributed QML across non-IID clients
+- Parameter aggregation of quantum circuit weights
+- Privacy-preserving training without raw-data sharing
+- Bridging my LLM-security focus into quantum trust models
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-2D7FF9?style=for-the-badge&logoColor=white)
+![TensorFlow Quantum](https://img.shields.io/badge/TensorFlow_Quantum-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum_ML-7c3aed?style=for-the-badge&logo=atom&logoColor=white)
+![Quantum FL](https://img.shields.io/badge/Quantum_Federated_Learning-a78bfa?style=for-the-badge&logo=hyperledger&logoColor=white)
+![VQC](https://img.shields.io/badge/Variational_Circuits-9b8cff?style=for-the-badge&logo=circuitverse&logoColor=white)
+
+<sub>🟣 Active learning & prototyping track — not yet published. Open to research collaboration in this space.</sub>
+
+</div>
+
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+
+<!-- ═══════════════ TECH ARSENAL ═══════════════ -->
 <div align="center">
 
 ## ⚔️ &nbsp; T E C H &nbsp; A R S E N A L
@@ -133,7 +175,7 @@ class LakshitSaini:
 ![SIREN](https://img.shields.io/badge/SIREN_INR-0d1b2a?style=for-the-badge&logo=wave&logoColor=00d4ff)
 ![NLP](https://img.shields.io/badge/NLP-00897b?style=for-the-badge&logo=nlp&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6366f1?style=for-the-badge&logo=sparkles&logoColor=white)
-![Self-Supervised Learning](https://img.shields.io/badge/Self--Supervised_Learning-f43f5e?style=for-the-badge&logo=learning&logoColor=white)
+![Self-Supervised](https://img.shields.io/badge/Self--Supervised_Learning-f43f5e?style=for-the-badge&logo=learning&logoColor=white)
 
 </details>
 
@@ -149,6 +191,18 @@ class LakshitSaini:
 ![Streaming LLM](https://img.shields.io/badge/Streaming_LLM_Inference-0d1b2a?style=for-the-badge&logo=stream&logoColor=00d4ff)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-10b981?style=for-the-badge&logo=search&logoColor=white)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-e11d48?style=for-the-badge&logo=flow&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚛️ &nbsp; Quantum & Emerging</b></summary>
+<br/>
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-2D7FF9?style=for-the-badge&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum_ML-7c3aed?style=for-the-badge&logo=atom&logoColor=white)
+![Quantum FL](https://img.shields.io/badge/Quantum_FL-a78bfa?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI_%2F_TinyML-22c55e?style=for-the-badge&logo=arm&logoColor=white)
 
 </details>
 
@@ -179,19 +233,14 @@ class LakshitSaini:
 
 </details>
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 <div align="center">
 
 ## 🚀 &nbsp; F E A T U R E D &nbsp; P R O J E C T S
 
 </div>
-
----
 
 ### 🧠 MIMIC — Hybrid LSTM–Diffusion Trajectory Synthesis
 > *The research that didn't just pass academic review — it fooled bot detectors.*
@@ -200,9 +249,9 @@ class LakshitSaini:
 <tr>
 <td width="60%">
 
-**Problem:** Existing motion synthesis models are either too rigid (LSTM) or too noisy (pure diffusion) to synthesize convincingly human-like behavioral trajectories.
+**Problem:** Existing motion synthesis models are either too rigid (LSTM) or too noisy (pure diffusion) to produce convincingly human-like behavioral trajectories.
 
-**Innovation:** A hybrid architecture where LSTM encodes contextual priors that condition a residual DDPM diffusion model — combining sequential memory with stochastic refinement.
+**Innovation:** A hybrid architecture where an LSTM encodes contextual priors that condition a residual DDPM diffusion model — combining sequential memory with stochastic refinement.
 
 **Results:**
 - 📊 JSD = **0.1478** (near-perfect human distribution match)
@@ -224,8 +273,7 @@ class LakshitSaini:
 
 <br/>
 
-`Behavioral AI` `Trajectory Synthesis`
-`Bot Evasion` `Generative Models`
+`Behavioral AI` `Trajectory Synthesis` `Bot Evasion` `Generative Models`
 
 </td>
 </tr>
@@ -312,7 +360,7 @@ class LakshitSaini:
 
 **Problem:** Automated disfluency detection for real-world accessibility systems requires robustness across noise conditions and accurate classification of subtle speech patterns.
 
-**Innovation:** Fine-tuned Wav2Vec 2.0 on SEP-28k for 5-class disfluency detection + Whisper-aligned remediation pipeline with acoustic robustness validation.
+**Innovation:** Fine-tuned Wav2Vec 2.0 on SEP-28k for 5-class disfluency detection + a Whisper-aligned remediation pipeline with acoustic robustness validation.
 
 **Results:**
 - 🎯 WER < **0.15** (Whisper-aligned)
@@ -345,7 +393,7 @@ class LakshitSaini:
 <tr>
 <td width="60%">
 
-**Innovation:** Bidirectional multimodal pipeline — MediaPipe + LSTM for Sign-to-Speech, and Speech-to-Sign TTS module — with multilingual support and modular CV/NLP architecture.
+**Innovation:** Bidirectional multimodal pipeline — MediaPipe + LSTM for Sign-to-Speech, and a Speech-to-Sign TTS module — with multilingual support and modular CV/NLP architecture.
 
 **Impact:** Real-time, low-latency accessible HCI interaction across multiple languages.
 
@@ -369,16 +417,13 @@ class LakshitSaini:
 
 [![View Repo](https://img.shields.io/badge/GitHub-INR--AD-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a)](https://github.com/lakshit2234/INR-AD)
 
-Unsupervised anomaly scoring on SMAP satellite telemetry using SIREN architecture (implicit neural representations). Fully modular, reproducible codebase with benchmarked results.
+Unsupervised anomaly scoring on SMAP satellite telemetry using a SIREN architecture (implicit neural representations). Fully modular, reproducible codebase with benchmarked results.
 
 `SIREN` `Anomaly Detection` `Satellite Telemetry` `Unsupervised Learning`
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   RESEARCH & PUBLICATIONS                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ RESEARCH & PUBLICATIONS ═══════════════ -->
 <div align="center">
 
 ## 📄 &nbsp; R E S E A R C H &nbsp; & &nbsp; P U B L I C A T I O N S
@@ -439,19 +484,20 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 **Research Interests**
 
 `LLM Security & Adversarial AI` · `Generative Models` · `Speech ML` · `Behavioral Biometrics`
-`Agentic Systems` · `Edge AI / TinyML` · `Implicit Neural Representations`
+`Agentic Systems` · `Quantum ML & Quantum FL` · `Edge AI / TinyML` · `Implicit Neural Representations`
 
 </div>
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ACHIEVEMENTS WALL                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 <div align="center">
 
 ## 🏆 &nbsp; A C H I E V E M E N T S &nbsp; W A L L
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=lakshit2234&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=00d4ff" width="100%"/>
 
 </div>
 
@@ -459,19 +505,16 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 | 🥇 | Achievement | Issuer | Year |
 |:---:|:---|:---|:---:|
-| 🎓 | **Academic Excellence Scholarship** | D Y Patil International University | 2026 |
-| 🏆 | **1st Rank — Ideathon 2025** | D Y Patil International University | Nov 2025 |
+| 🎓 | **Academic Excellence Scholarship** | DY Patil International University | 2026 |
+| 🏆 | **1st Rank — Ideathon 2025** | DY Patil International University | Nov 2025 |
 | 📜 | **Research Paper Award** | NCTAAI 4.0 · ICEM National Conference | Mar 2025 |
 | 🥇 | **1st Rank — State-Level Research Paper Competition** | MITACSC | Dec 2024 |
 
 </div>
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB ANALYTICS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 <div align="center">
 
 ## 📊 &nbsp; G I T H U B &nbsp; A N A L Y T I C S
@@ -484,11 +527,10 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshit2234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=ffffff&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshit2234&bg_color=0d1b2a&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshit2234&bg_color=0d1b2a&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="49%"/>
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshit2234/lakshit2234/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshit2234/lakshit2234/output/github-snake.svg" />
@@ -497,12 +539,9 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 </div>
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CAREER TIMELINE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ CAREER TIMELINE ═══════════════ -->
 <div align="center">
 
 ## 🕰️ &nbsp; C A R E E R &nbsp; T I M E L I N E
@@ -513,40 +552,25 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 2023 ──────────────────────────────────────────────────────────────── 2027
   │
   ├─── Aug 2023 ──▶  🎓  B.Tech CSE (AI/ML) · DY Patil International University
-  │
   ├─── Oct 2024 ──▶  📗  Published: Predictive Maintenance on Microcontrollers · IJSREM
-  │
   ├─── Dec 2024 ──▶  🥇  1st Rank · State-Level Research Paper · MITACSC
-  │
   ├─── Mar 2025 ──▶  📘  Research Paper Award · NCTAAI 4.0 · ICEM
-  │
-  ├─── Feb–May 2025 ▶  🤟  SignSpeakAI · Multimodal Sign–Speech Translation System
-  │
+  ├─── Feb–May 2025 ▶  🤟  SignSpeakAI · Multimodal Sign–Speech Translation
   ├─── May 2025 ──▶  🤖  InsightCrew · Multi-Agent Research Engine (Production)
-  │
   ├─── May 2025 ──▶  💼  Software Engineering Intern · Dexpert Systems Pvt. Ltd.
-  │
   ├─── May 2025 ──▶  📈  StonkSensei · Agentic Financial Intelligence System
-  │
   ├─── Nov 2025 ──▶  🧠  MIMIC Research Started · Hybrid LSTM-Diffusion
-  │
   ├─── Nov 2025 ──▶  🏆  1st Rank Ideathon 2025 · DY Patil International University
-  │
   ├─── Jan 2026 ──▶  ✅  MIMIC Complete · JSD=0.1478 · 100% Bot Evasion
-  │
   ├─── Jan 2026 ──▶  🗣️  Speech Disfluency Detection Research · Active
-  │
+  ├─── 2026 ─────▶  ⚛️  Quantum ML & Quantum FL · Exploration Track Begun
   ├─── 2026 ─────▶  🎓  Academic Excellence Scholarship · DY Patil International University
-  │
   └─── 2027 ─────▶  🚀  B.Tech Graduation · Ready to build the future
 ```
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CURRENT FOCUS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
 <div align="center">
 
 ## 🎯 &nbsp; C U R R E N T &nbsp; F O C U S
@@ -555,28 +579,29 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🚀 Currently Building**
-- Speech Disfluency Detection system with real-time remediation pipeline
-- MIMIC IEEE paper finalization and journal submission
+- Speech Disfluency Detection with real-time remediation
+- MIMIC IEEE paper finalization & journal submission
+- First quantum ML prototypes (VQC classifiers)
 
 **📚 Researching**
-- Diffusion model architectures for controllable generation
-- LLM safety: adversarial prompt attacks and defenses
+- Diffusion architectures for controllable generation
+- LLM safety: adversarial prompt attacks & defenses
 - Self-supervised speech representation learning
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🎯 Currently Learning**
+- Quantum ML & Quantum Federated Learning
 - Advanced multi-agent orchestration patterns
 - Reinforcement Learning for agentic decision-making
-- Edge AI deployment on microcontrollers
 
 **🤝 Open to Collaborate On**
 - ML Research (IEEE-level publications)
-- Agentic AI / LLM Systems projects
+- Agentic AI / LLM Systems & Quantum ML
 - AI for Healthcare, Accessibility, or Security
 - Hackathons & Research Internships
 
@@ -584,37 +609,30 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 </tr>
 </table>
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    DEVELOPER DNA SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ DEVELOPER DNA ═══════════════ -->
 <div align="center">
 
 ## 🧬 &nbsp; D E V E L O P E R &nbsp; D N A
 
 *A machine-learning model trained on curiosity and caffeine.*
 
+<br/>
+
+<!-- ░░░ CUSTOM ANIMATED CAPABILITY BARS (hosted in your repo) ░░░ -->
+<img src="./assets/capabilities.svg" width="70%" alt="core capabilities"/>
+
 </div>
 
 ```yaml
-Model Architecture: Lakshit-v3.1-Researcher-Builder
+Model Architecture: Lakshit-v3.2-Researcher-Builder
 
 Training Data:
   - 2+ years of AI/ML coursework & self-study
   - 212,568 custom behavioral motion samples (self-collected)
   - 2 published research papers
   - 6 production/research projects shipped
-
-Core Weights:
-  research_depth:          ████████████░░  90%
-  systems_thinking:        ███████████░░░  85%
-  llm_engineering:         ████████████░░  92%
-  deep_learning:           ███████████░░░  87%
-  code_quality:            ██████████░░░░  80%
-  paper_writing:           ████████████░░  88%
-  shipping_speed:          █████████░░░░░  75%
 
 Activation Functions:
   - Curiosity-driven exploration
@@ -624,16 +642,14 @@ Activation Functions:
 Loss Function:   Cross-entropy between "what exists" and "what should exist"
 Optimizer:       Gradient descent on impact
 Regularization:  Academic rigor + real-world validation
+Next Layer:      Quantum-classical hybrid (training...)
 
 Status: 🟢 TRAINING IN PROGRESS — Expected convergence: Aug 2027
 ```
 
----
+<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONTACT CTA                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════ CONTACT ═══════════════ -->
 <div align="center">
 
 ## 📡 &nbsp; L E T ' S &nbsp; B U I L D &nbsp; S O M E T H I N G
@@ -653,15 +669,16 @@ Status: 🟢 TRAINING IN PROGRESS — Expected convergence: Aug 2027
 
 **Currently open to:**
 
-`Research Internships` &nbsp; `IEEE Co-authorship` &nbsp; `AI/ML Roles` &nbsp; `Hackathon Teams` &nbsp; `Grad School Collaborations`
+`Research Internships` &nbsp; `IEEE Co-authorship` &nbsp; `AI/ML Roles` &nbsp; `Quantum ML Collabs` &nbsp; `Hackathon Teams` &nbsp; `Grad School`
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d1b2a,100:0a0a0f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:0a0a0f&height=120&section=footer" width="100%"/>
 
 </div>
 
 <!-- ─────────────────────────────────────────── -->
 <!-- README crafted with research-grade precision -->
+<!-- Custom SVG animations · Quantum-themed identity -->
 <!-- Last updated: 2026                           -->
 <!-- ─────────────────────────────────────────── -->
