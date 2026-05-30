@@ -1,12 +1,8 @@
 name: Update Recent Activity
-
-# Fills the <!--START_SECTION:activity--> block in README.md
-# with your latest public GitHub activity.
-
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:          # lets you run it manually from the Actions tab
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,8 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # must be under env:
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: "lakshit2234"                  # your GitHub username
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 5
