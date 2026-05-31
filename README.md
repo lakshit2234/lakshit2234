@@ -570,7 +570,7 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 <summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions)</sub></summary>
 
 <!--START_SECTION:activity-->
-<!-- This list is generated automatically — see .github/workflows/activity.yml -->
+1. 🗣 Commented on [#25264](https://github.com/scipy/scipy/pull/25264#issuecomment-4583784644) in [scipy/scipy](https://github.com/scipy/scipy)
 <!--END_SECTION:activity-->
 
 </details>
