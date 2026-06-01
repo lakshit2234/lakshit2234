@@ -570,7 +570,7 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 <summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions)</sub></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25264](https://github.com/scipy/scipy/pull/25264#issuecomment-4583784644) in [scipy/scipy](https://github.com/scipy/scipy)
+1. 💪 Opened PR [#31544](https://github.com/numpy/numpy/pull/31544) in [numpy/numpy](https://github.com/numpy/numpy)
 <!--END_SECTION:activity-->
 
 </details>
