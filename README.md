@@ -533,7 +533,6 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 </div>
 
 <img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
-
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 <div align="center">
 
@@ -541,13 +540,12 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 <br/>
 
-<!-- ░░░ Rotating dev quote — changes on every refresh ░░░ -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%"/>
 
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=lakshit2234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshit2234&theme=tokyonight&hide_border=true&background=0d1b2a&ring=00d4ff&fire=ff4500&currStreakLabel=00d4ff" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=lakshit2234&theme=tokyonight&hide_border=true&background=0d1b2a&ring=00d4ff&fire=ff4500&currStreakLabel=00d4ff" width="49%" />
 
 <br/><br/>
 
@@ -561,6 +559,8 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshit2234/lakshit2234/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/lakshit2234/lakshit2234/output/github-snake-dark.svg" />
 </picture>
+
+</div>
 
 </div>
 
