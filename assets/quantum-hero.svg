@@ -1,0 +1,149 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <defs>
+    <!-- Deep space background -->
+    <radialGradient id="space" cx="50%" cy="0%" r="120%">
+      <stop offset="0%" stop-color="#101b33"/>
+      <stop offset="45%" stop-color="#0a1124"/>
+      <stop offset="100%" stop-color="#04060f"/>
+    </radialGradient>
+    <radialGradient id="nebula1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f5a623"/>
+    </linearGradient>
+    <linearGradient id="circuitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Electron orbit paths (ellipses around atom center 990,165) -->
+    <path id="orbitA" d="M 990,165 m -120,0 a 120,42 0 1,0 240,0 a 120,42 0 1,0 -240,0"/>
+    <path id="orbitB" d="M 990,165 m -95,0 a 95,95 0 1,0 190,0 a 95,95 0 1,0 -190,0"/>
+    <path id="orbitC" d="M 990,165 m -42,0 a 42,120 0 1,0 84,0 a 42,120 0 1,0 -84,0"/>
+    <style>
+      .star { fill:#ffffff; }
+      .tw1 { animation: tw 2.4s ease-in-out infinite; }
+      .tw2 { animation: tw 3.1s ease-in-out infinite 0.7s; }
+      .tw3 { animation: tw 4s ease-in-out infinite 1.4s; }
+      .tw4 { animation: tw 2.8s ease-in-out infinite 2.1s; }
+      @keyframes tw { 0%,100%{opacity:0.15} 50%{opacity:1} }
+      .drift { animation: drift 14s ease-in-out infinite alternate; }
+      @keyframes drift { from{transform:translateX(0)} to{transform:translateX(26px)} }
+      .rise { animation: rise 1.6s ease-out both; }
+      .d1{animation-delay:.2s} .d2{animation-delay:.6s} .d3{animation-delay:1s} .d4{animation-delay:1.4s}
+      @keyframes rise { from{opacity:0; transform:translateY(14px)} to{opacity:1; transform:translateY(0)} }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" fill="url(#space)"/>
+  <g class="drift">
+    <ellipse cx="320" cy="90" rx="300" ry="120" fill="url(#nebula1)"/>
+    <ellipse cx="900" cy="280" rx="340" ry="130" fill="url(#nebula2)"/>
+  </g>
+
+  <!-- Starfield -->
+  <g>
+    <circle class="star tw1" cx="60" cy="40" r="1.6"/><circle class="star tw3" cx="140" cy="120" r="1.1"/>
+    <circle class="star tw2" cx="220" cy="60" r="1.4"/><circle class="star tw4" cx="310" cy="180" r="1.2"/>
+    <circle class="star tw3" cx="90" cy="250" r="1.5"/><circle class="star tw1" cx="180" cy="310" r="1.1"/>
+    <circle class="star tw2" cx="400" cy="40" r="1.3"/><circle class="star tw4" cx="470" cy="300" r="1.6"/>
+    <circle class="star tw1" cx="540" cy="90" r="1.2"/><circle class="star tw3" cx="620" cy="330" r="1.4"/>
+    <circle class="star tw2" cx="700" cy="50" r="1.5"/><circle class="star tw1" cx="760" cy="140" r="1.1"/>
+    <circle class="star tw4" cx="830" cy="40" r="1.3"/><circle class="star tw2" cx="1130" cy="80" r="1.5"/>
+    <circle class="star tw3" cx="1160" cy="240" r="1.2"/><circle class="star tw1" cx="1080" cy="320" r="1.4"/>
+    <circle class="star tw4" cx="500" cy="200" r="1.0"/><circle class="star tw2" cx="260" cy="270" r="1.2"/>
+    <circle class="star tw3" cx="660" cy="220" r="1.1"/><circle class="star tw1" cx="940" cy="40" r="1.3"/>
+    <circle class="star tw4" cx="30" cy="150" r="1.2"/><circle class="star tw2" cx="370" cy="120" r="1.0"/>
+  </g>
+
+  <!-- Shooting stars -->
+  <g filter="url(#glow)">
+    <line x1="0" y1="0" x2="46" y2="14" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" opacity="0">
+      <animateMotion path="M 180,30 L 560,140" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.12;0.3" dur="5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="0" x2="40" y2="10" stroke="#9be8ff" stroke-width="1.3" stroke-linecap="round" opacity="0">
+      <animateMotion path="M 1150,60 L 760,200" dur="7s" begin="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" keyTimes="0;0.1;0.28" dur="7s" begin="2.5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- ⚛ Quantum atom (right side) -->
+  <g>
+    <ellipse cx="990" cy="165" rx="120" ry="42" fill="none" stroke="#00d4ff" stroke-opacity="0.45" stroke-width="1.2"/>
+    <ellipse cx="990" cy="165" rx="95" ry="95" fill="none" stroke="#a78bfa" stroke-opacity="0.4" stroke-width="1.2"/>
+    <ellipse cx="990" cy="165" rx="42" ry="120" fill="none" stroke="#f5a623" stroke-opacity="0.35" stroke-width="1.2"/>
+    <!-- Nucleus -->
+    <circle cx="990" cy="165" r="13" fill="#7c3aed" filter="url(#softGlow)">
+      <animate attributeName="r" values="13;16;13" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="990" cy="165" r="6" fill="#e9d5ff"/>
+    <!-- Electrons on orbits -->
+    <circle r="5" fill="#00d4ff" filter="url(#glow)">
+      <animateMotion dur="6s" repeatCount="indefinite"><mpath xlink:href="#orbitA"/></animateMotion>
+    </circle>
+    <circle r="4.5" fill="#a78bfa" filter="url(#glow)">
+      <animateMotion dur="9s" repeatCount="indefinite"><mpath xlink:href="#orbitB"/></animateMotion>
+    </circle>
+    <circle r="4" fill="#f5a623" filter="url(#glow)">
+      <animateMotion dur="7.5s" repeatCount="indefinite"><mpath xlink:href="#orbitC"/></animateMotion>
+    </circle>
+    <!-- Qubit state label -->
+    <text x="990" y="305" text-anchor="middle" fill="#7dd3fc" font-size="15" font-family="Consolas, monospace" opacity="0.85">|ψ⟩ = α|AI⟩ + β|Quantum⟩
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Name + titles -->
+  <g class="rise d1">
+    <text x="80" y="150" font-size="64" font-weight="800" letter-spacing="4" fill="url(#nameGrad)" filter="url(#glow)">LAKSHIT SAINI</text>
+  </g>
+  <g class="rise d2">
+    <text x="82" y="192" font-size="20" font-weight="600" letter-spacing="6" fill="#cbd5e1">AI ENGINEER &#160;×&#160; RESEARCHER &#160;×&#160; QUANTUM EXPLORER</text>
+  </g>
+  <g class="rise d3" font-family="Consolas, monospace">
+    <text x="82" y="228" font-size="14" fill="#64ffda">⟨ Agentic LLM Systems · Diffusion Models · Speech AI · QML ⟩</text>
+  </g>
+  <g class="rise d4">
+    <rect x="82" y="248" rx="11" width="178" height="24" fill="#0d1b2a" stroke="#00d4ff" stroke-opacity="0.6"/>
+    <circle cx="98" cy="260" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="110" y="265" font-size="12.5" fill="#a5f3fc" font-family="Consolas, monospace">open_to_research = True</text>
+  </g>
+
+  <!-- Bottom quantum circuit -->
+  <g transform="translate(0,330)">
+    <line x1="60" y1="0" x2="880" y2="0" stroke="#1e3a5f" stroke-width="1.6"/>
+    <rect x="170" y="-9" width="18" height="18" rx="3" fill="#0d1b2a" stroke="#00d4ff"/>
+    <text x="179" y="4" text-anchor="middle" font-size="11" fill="#00d4ff" font-family="Consolas, monospace">H</text>
+    <rect x="380" y="-9" width="18" height="18" rx="3" fill="#0d1b2a" stroke="#a78bfa"/>
+    <text x="389" y="4" text-anchor="middle" font-size="11" fill="#a78bfa" font-family="Consolas, monospace">X</text>
+    <circle cx="560" cy="0" r="5" fill="none" stroke="#f5a623" stroke-width="1.5"/>
+    <line x1="560" y1="-5" x2="560" y2="5" stroke="#f5a623" stroke-width="1.5"/>
+    <rect x="720" y="-9" width="18" height="18" rx="3" fill="#0d1b2a" stroke="#22c55e"/>
+    <text x="729" y="4" text-anchor="middle" font-size="11" fill="#22c55e" font-family="Consolas, monospace">M</text>
+    <!-- Pulse travelling the wire -->
+    <circle r="4" fill="#00d4ff" filter="url(#glow)">
+      <animateMotion path="M 60,0 L 880,0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="60" y="-2" width="820" height="4" fill="url(#circuitGrad)" opacity="0.35">
+      <animate attributeName="x" values="-300;1200" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
