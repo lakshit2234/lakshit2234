@@ -1,20 +1,25 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║  SETUP: place the /assets folder (quantum-hero.svg,            ║
-  ║  capabilities.svg, quantum-divider.svg) in your repo root,     ║
-  ║  next to this README.md. The custom SVGs are SMIL-animated     ║
-  ║  and animate natively on GitHub. No build step required.       ║
+  ║  SETUP                                                        ║
+  ║  1. Repo must be named:  lakshit2234/lakshit2234              ║
+  ║  2. Place the /assets folder (quantum-hero.svg,               ║
+  ║     capabilities.svg, quantum-divider.svg) in the repo root,  ║
+  ║     next to this README.md. The SVGs are SMIL/CSS-animated    ║
+  ║     and animate natively on GitHub. No build step required.   ║
+  ║  3. For the snake + recent-activity sections, add the two     ║
+  ║     workflow files (snake.yml, activity.yml) to               ║
+  ║     .github/workflows/ — instructions inside each file.       ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- ░░░ CUSTOM ANIMATED HERO (hosted in your repo) ░░░ -->
-<img src="./assets/quantum-hero.svg" width="100%" alt="Lakshit Saini"/>
+<!-- ░░░ CUSTOM ANIMATED HERO — twinkling starfield · orbiting qubits · live quantum circuit ░░░ -->
+<img src="./assets/quantum-hero.svg" width="100%" alt="Lakshit Saini — AI Engineer × Researcher × Quantum Explorer"/>
 
 <!-- ░░░ TYPING SVG ░░░ -->
 <a href="https://github.com/lakshit2234">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+Intelligent+Systems+That+Think%F0%9F%A7%A0;Hybrid+LSTM+%E2%80%94+Diffusion+%E2%80%94+Agentic+AI%F0%9F%A4%96;Exploring+Quantum+ML+%26+Quantum+Federated+Learning%E2%9A%9B%EF%B8%8F;From+Research+Lab+to+Production+Deployment%F0%9F%9A%80;2x+Published+Researcher+%7C+IEEE-Level+ML%F0%9F%93%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+Intelligent+Systems+That+Think+%F0%9F%A7%A0;Hybrid+LSTM+%E2%80%94+Diffusion+%E2%80%94+Agentic+AI+%F0%9F%A4%96;Exploring+Quantum+ML+%26+Quantum+Federated+Learning+%E2%9A%9B%EF%B8%8F;From+Research+Lab+to+Production+Deployment+%F0%9F%9A%80;2%C3%97+Published+%C2%B7+4%C3%97+Award-Winning+Researcher+%F0%9F%93%84" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,18 +31,18 @@
 <br/>
 
 <a href="mailto:lakshitsaini1098@gmail.com"><img src="https://img.shields.io/badge/Gmail-lakshitsaini1098-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a"/></a>
-<a href="https://linkedin.com/in/lakshit-saini1306"><img src="https://img.shields.io/badge/LinkedIn-lakshit--saini1306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a"/></a>
+<a href="https://www.linkedin.com/in/lakshit-saini1306/"><img src="https://img.shields.io/badge/LinkedIn-lakshit--saini1306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a"/></a>
 <a href="https://github.com/lakshit2234"><img src="https://img.shields.io/badge/GitHub-lakshit2234-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a"/></a>
 
 <br/><br/>
 
 > **`"Designing intelligence — from behavioral trajectories to autonomous agents to the quantum edge."`**
 >
-> 📍 Pune, India &nbsp;|&nbsp; 🎓 B.Tech CSE (AI/ML) · CGPA 9.1 &nbsp;|&nbsp; 🏆 2× Published Researcher &nbsp;|&nbsp; ⚡ 4× Award Winner
+> 📍 Pune, India &nbsp;|&nbsp; 🎓 B.Tech CSE (AI/ML) · CGPA 9.1 &nbsp;|&nbsp; 📄 2× Published Researcher &nbsp;|&nbsp; 🏆 4× Award Winner
 
 </div>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ WHO AM I ═══════════════ -->
 <div align="center">
@@ -72,8 +77,8 @@ class LakshitSaini:
         and probe what quantum computation adds when classical hits its ceiling.
     """
 
-    superpower = "Turning research ideas into IEEE-quality papers AND live demos"
-    fun_fact   = "Built a bot-evasion system so human-like it fooled 100% of detectors 🤫"
+    superpower = "Turning research ideas into publication-grade papers AND live demos"
+    fun_fact   = "Built a trajectory model so human-like it fooled 100% of bot detectors 🤫"
 ```
 
 <br/>
@@ -82,11 +87,11 @@ class LakshitSaini:
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/-Research-0d1b2a?style=for-the-badge&logo=academia&logoColor=00d4ff"/><br/>
-<b>2 Publications</b><br/><sub>IEEE · IJSREM</sub>
+<img src="https://img.shields.io/badge/-Research-0d1b2a?style=for-the-badge&logo=googlescholar&logoColor=00d4ff"/><br/>
+<b>2 Publications</b><br/><sub>NCTAAI 4.0 · IJSREM</sub><br/><sub>+1 under submission (IEEE)</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/-Awards-0d1b2a?style=for-the-badge&logo=trophy&logoColor=f5a623"/><br/>
+<img src="https://img.shields.io/badge/-Awards-0d1b2a?style=for-the-badge&logo=googlecloudstorage&logoColor=f5a623"/><br/>
 <b>4 Awards</b><br/><sub>National · State · University</sub>
 </td>
 <td align="center" width="200">
@@ -94,14 +99,14 @@ class LakshitSaini:
 <b>6 Projects</b><br/><sub>Research + Production</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/-Datasets-0d1b2a?style=for-the-badge&logo=database&logoColor=00d4ff"/><br/>
+<img src="https://img.shields.io/badge/-Datasets-0d1b2a?style=for-the-badge&logo=databricks&logoColor=00d4ff"/><br/>
 <b>212,568 Samples</b><br/><sub>Custom behavioral dataset</sub>
 </td>
 </tr>
 </table>
 </div>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ QUANTUM FRONTIER ═══════════════ -->
 <div align="center">
@@ -140,20 +145,40 @@ class LakshitSaini:
 </tr>
 </table>
 
+### 🌌 The Convergence Map
+
+*How every project I've built feeds the quantum trajectory — rendered live by GitHub:*
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1b2a','primaryTextColor':'#00d4ff','primaryBorderColor':'#7c3aed','lineColor':'#f5a623','fontSize':'14px'}}}%%
+graph LR
+    A[🧠 MIMIC<br/>hybrid LSTM × Diffusion] -- "hybrid architecture DNA" --> Q{{⚛️ Hybrid<br/>Quantum-Classical<br/>Models}}
+    B[🛡️ AI Security Taxonomy<br/>NCTAAI 4.0 🏆] -- "adversarial & trust research" --> F{{🔐 Quantum<br/>Federated<br/>Learning}}
+    C[📗 Edge ML on MCUs<br/>IJSREM] -- "resource-constrained learning" --> F
+    D[🤖 InsightCrew + StonkSensei<br/>multi-agent systems] -- "distributed orchestration" --> F
+    E[🗣️ Speech Disfluency<br/>self-supervised Wav2Vec 2.0] -- "representation learning" --> Q
+    Q --> Z((🚀 Quantum AI<br/>Research<br/>2026 →))
+    F --> Z
+
+    style Q fill:#0d1b2a,stroke:#00d4ff,stroke-width:2.5px
+    style F fill:#0d1b2a,stroke:#a78bfa,stroke-width:2.5px
+    style Z fill:#0d1b2a,stroke:#f5a623,stroke-width:3px
+```
+
 <div align="center">
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-2D7FF9?style=for-the-badge&logoColor=white)
 ![TensorFlow Quantum](https://img.shields.io/badge/TensorFlow_Quantum-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Quantum ML](https://img.shields.io/badge/Quantum_ML-7c3aed?style=for-the-badge&logo=atom&logoColor=white)
-![Quantum FL](https://img.shields.io/badge/Quantum_Federated_Learning-a78bfa?style=for-the-badge&logo=hyperledger&logoColor=white)
-![VQC](https://img.shields.io/badge/Variational_Circuits-9b8cff?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum_ML-7c3aed?style=for-the-badge&logoColor=white)
+![Quantum FL](https://img.shields.io/badge/Quantum_Federated_Learning-a78bfa?style=for-the-badge&logoColor=white)
+![VQC](https://img.shields.io/badge/Variational_Circuits-9b8cff?style=for-the-badge&logoColor=white)
 
 <sub>🟣 Active learning & prototyping track — not yet published. Open to research collaboration in this space.</sub>
 
 </div>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ TECH ARSENAL ═══════════════ -->
 <div align="center">
@@ -169,13 +194,13 @@ class LakshitSaini:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Diffusion Models](https://img.shields.io/badge/DDPM_Diffusion-7c3aed?style=for-the-badge&logo=ai&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM_Networks-00d4ff?style=for-the-badge&logo=brain&logoColor=white)
-![Wav2Vec](https://img.shields.io/badge/Wav2Vec_2.0-1a73e8?style=for-the-badge&logo=audio&logoColor=white)
-![SIREN](https://img.shields.io/badge/SIREN_INR-0d1b2a?style=for-the-badge&logo=wave&logoColor=00d4ff)
-![NLP](https://img.shields.io/badge/NLP-00897b?style=for-the-badge&logo=nlp&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6366f1?style=for-the-badge&logo=sparkles&logoColor=white)
-![Self-Supervised](https://img.shields.io/badge/Self--Supervised_Learning-f43f5e?style=for-the-badge&logo=learning&logoColor=white)
+![Diffusion Models](https://img.shields.io/badge/DDPM_Diffusion-7c3aed?style=for-the-badge&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM_Networks-00d4ff?style=for-the-badge&logoColor=white)
+![Wav2Vec](https://img.shields.io/badge/Wav2Vec_2.0-1a73e8?style=for-the-badge&logoColor=white)
+![SIREN](https://img.shields.io/badge/SIREN_INR-0d1b2a?style=for-the-badge&logoColor=00d4ff)
+![NLP](https://img.shields.io/badge/NLP-00897b?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6366f1?style=for-the-badge&logoColor=white)
+![Self-Supervised](https://img.shields.io/badge/Self--Supervised_Learning-f43f5e?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -183,14 +208,14 @@ class LakshitSaini:
 <summary><b>🤖 &nbsp; LLM & Agentic AI</b></summary>
 <br/>
 
-![CrewAI](https://img.shields.io/badge/CrewAI-ff4500?style=for-the-badge&logo=robot&logoColor=white)
-![phidata](https://img.shields.io/badge/Phidata-7c3aed?style=for-the-badge&logo=data&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-f59e0b?style=for-the-badge&logo=groq&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-00d4ff?style=for-the-badge&logo=network&logoColor=white)
-![Streaming LLM](https://img.shields.io/badge/Streaming_LLM_Inference-0d1b2a?style=for-the-badge&logo=stream&logoColor=00d4ff)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-10b981?style=for-the-badge&logo=search&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-e11d48?style=for-the-badge&logo=flow&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-ff4500?style=for-the-badge&logoColor=white)
+![phidata](https://img.shields.io/badge/Phidata-7c3aed?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-f59e0b?style=for-the-badge&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_2.0-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-00d4ff?style=for-the-badge&logoColor=white)
+![Streaming LLM](https://img.shields.io/badge/Streaming_LLM_Inference-0d1b2a?style=for-the-badge&logoColor=00d4ff)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-10b981?style=for-the-badge&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-e11d48?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -200,8 +225,8 @@ class LakshitSaini:
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-2D7FF9?style=for-the-badge&logoColor=white)
-![Quantum ML](https://img.shields.io/badge/Quantum_ML-7c3aed?style=for-the-badge&logo=atom&logoColor=white)
-![Quantum FL](https://img.shields.io/badge/Quantum_FL-a78bfa?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum_ML-7c3aed?style=for-the-badge&logoColor=white)
+![Quantum FL](https://img.shields.io/badge/Quantum_FL-a78bfa?style=for-the-badge&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge_AI_%2F_TinyML-22c55e?style=for-the-badge&logo=arm&logoColor=white)
 
 </details>
@@ -228,12 +253,12 @@ class LakshitSaini:
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-7c3aed?style=for-the-badge&logo=wave&logoColor=white)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-7c3aed?style=for-the-badge&logoColor=white)
 ![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </details>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 <div align="center">
@@ -307,7 +332,7 @@ class LakshitSaini:
 <td width="40%" align="center">
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-ff4500?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 <br/>
@@ -352,8 +377,6 @@ class LakshitSaini:
 <br/>
 
 [![View Repo](https://img.shields.io/badge/GitHub-StonkSensei-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a)](https://github.com/lakshit2234/StonkSensei)
-<!-- 🔧 REPLACE the URL below with your real deployed link (or delete this line if not deployed) -->
-[![Live Demo](https://img.shields.io/badge/▶_Try_it_Live-Demo-00d4ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1b2a)](https://YOUR-STONKSENSEI-APP-URL)
 
 `Fintech AI` `Streaming LLM` `Agentic`
 
@@ -435,13 +458,13 @@ class LakshitSaini:
 
 [![View Repo](https://img.shields.io/badge/GitHub-INR--AD-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a)](https://github.com/lakshit2234/INR-AD)
 
-Unsupervised anomaly scoring on SMAP satellite telemetry using a SIREN architecture (implicit neural representations). Fully modular, reproducible codebase with benchmarked results.
+Unsupervised anomaly scoring on NASA SMAP satellite telemetry using a SIREN architecture (implicit neural representations). Fully modular, reproducible codebase with benchmarked results.
 
 `SIREN` `Anomaly Detection` `Satellite Telemetry` `Unsupervised Learning`
 
 </details>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ RESEARCH & PUBLICATIONS ═══════════════ -->
 <div align="center">
@@ -487,7 +510,7 @@ On-device ML deployment for real-time fault detection in resource-constrained Io
 <td align="center">📙</td>
 <td>
 
-**MIMIC: Hybrid LSTM–Diffusion Model for Human-Like Mouse Trajectory Synthesis** *(Under Submission)*
+**MIMIC: Hybrid LSTM–Diffusion Model for Human-Like Trajectory Synthesis** *(Under Submission)*
 
 Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral trajectory generation. JSD = 0.1478, 100% bot-evasion rate. Targeting IEEE Transactions on Biometrics, Behavior and Identity Science.
 
@@ -508,7 +531,7 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 </div>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 <div align="center">
@@ -517,11 +540,9 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lakshit2234&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=00d4ff" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lakshit2234&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=00d4ff" width="100%" alt="GitHub trophies"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 | 🥇 | Achievement | Issuer | Year |
 |:---:|:---|:---|:---:|
@@ -532,7 +553,8 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 </div>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
+
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 <div align="center">
 
@@ -544,38 +566,36 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshit2234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=lakshit2234&theme=tokyonight&hide_border=true&background=0d1b2a&ring=00d4ff&fire=ff4500&currStreakLabel=00d4ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lakshit2234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com/?user=lakshit2234&theme=tokyonight&hide_border=true&background=0d1b2a&ring=00d4ff&fire=f5a623&currStreakLabel=00d4ff" width="49%" alt="Streak stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshit2234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=ffffff&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshit2234&bg_color=0d1b2a&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshit2234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00d4ff&text_color=ffffff&langs_count=8" width="40%" alt="Top languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshit2234&bg_color=0d1b2a&color=00d4ff&line=7c3aed&point=f5a623&area=true&hide_border=true&custom_title=Commit%20Telemetry" width="58%" alt="Activity graph"/>
 
 <br/><br/>
 
+<!-- 🐍 Requires .github/workflows/snake.yml (provided) — run it once from the Actions tab -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshit2234/lakshit2234/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshit2234/lakshit2234/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/lakshit2234/lakshit2234/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/lakshit2234/lakshit2234/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
-</div>
 
 </div>
 
 <br/>
 
 <details>
-<summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions)</sub></summary>
+<summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions — requires activity.yml workflow, provided)</sub></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31544](https://github.com/numpy/numpy/pull/31544) in [numpy/numpy](https://github.com/numpy/numpy)
 <!--END_SECTION:activity-->
 
 </details>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ CAREER TIMELINE ═══════════════ -->
 <div align="center">
@@ -592,19 +612,32 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
   ├─── Dec 2024 ──▶  🥇  1st Rank · State-Level Research Paper · MITACSC
   ├─── Mar 2025 ──▶  📘  Research Paper Award · NCTAAI 4.0 · ICEM
   ├─── Feb–May 2025 ▶  🤟  SignSpeakAI · Multimodal Sign–Speech Translation
-  ├─── May 2025 ──▶  🤖  InsightCrew · Multi-Agent Research Engine (Production)
   ├─── May 2025 ──▶  💼  Software Engineering Intern · Dexpert Systems Pvt. Ltd.
+  ├─── May 2025 ──▶  🤖  InsightCrew · Multi-Agent Research Engine (Production)
   ├─── May 2025 ──▶  📈  StonkSensei · Agentic Financial Intelligence System
-  ├─── Nov 2025 ──▶  🧠  MIMIC Research Started · Hybrid LSTM-Diffusion
+  ├─── Nov 2025 ──▶  🧠  MIMIC Research Started · Hybrid LSTM–Diffusion
   ├─── Nov 2025 ──▶  🏆  1st Rank Ideathon 2025 · DY Patil International University
   ├─── Jan 2026 ──▶  ✅  MIMIC Complete · JSD=0.1478 · 100% Bot Evasion
   ├─── Jan 2026 ──▶  🗣️  Speech Disfluency Detection Research · Active
   ├─── 2026 ─────▶  ⚛️  Quantum ML & Quantum FL · Exploration Track Begun
-  ├─── 2026 ─────▶  🎓  Academic Excellence Scholarship · DY Patil International University
+  ├─── 2026 ─────▶  🎓  Academic Excellence Scholarship · DYPIU
   └─── 2027 ─────▶  🚀  B.Tech Graduation · Ready to build the future
 ```
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+### 🗺️ Flight Plan · 2026 → 2030
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1b2a','primaryTextColor':'#00d4ff','lineColor':'#f5a623','fontSize':'13px'}}}%%
+timeline
+    title From Classical Orbit to Quantum Deep Space
+    2026 : Ship Speech Disfluency System : MIMIC → IEEE submission : First VQC prototypes (PennyLane · Qiskit)
+    2027 : B.Tech graduation : Hybrid quantum-classical paper : Open-source QML tooling
+    2028 : Graduate research — Quantum ML : QFL simulation framework
+    2029 : Publish in QML venues : Quantum NLP / CV experiments
+    2030 : Lead an AI × Quantum research initiative
+```
+
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
 <div align="center">
@@ -636,7 +669,7 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 - Reinforcement Learning for agentic decision-making
 
 **🤝 Open to Collaborate On**
-- ML Research (IEEE-level publications)
+- ML Research (publication-grade)
 - Agentic AI / LLM Systems & Quantum ML
 - AI for Healthcare, Accessibility, or Security
 - Hackathons & Research Internships
@@ -645,7 +678,7 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 </tr>
 </table>
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ DEVELOPER DNA ═══════════════ -->
 <div align="center">
@@ -656,8 +689,8 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 <br/>
 
-<!-- ░░░ CUSTOM ANIMATED CAPABILITY BARS (hosted in your repo) ░░░ -->
-<img src="./assets/capabilities.svg" width="70%" alt="core capabilities"/>
+<!-- ░░░ CUSTOM ANIMATED CAPABILITY BARS — terminal panel with live-filling benchmark bars ░░░ -->
+<img src="./assets/capabilities.svg" width="76%" alt="core capabilities benchmark — Agentic AI 92%, Generative Models 88%, Deep Learning 90%, Speech 84%, CV 80%, Quantum ML charging"/>
 
 </div>
 
@@ -683,7 +716,7 @@ Next Layer:      Quantum-classical hybrid (training...)
 Status: 🟢 TRAINING IN PROGRESS — Expected convergence: Aug 2027
 ```
 
-<img src="./assets/quantum-divider.svg" width="100%" alt="───"/>
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
 <div align="center">
@@ -698,16 +731,20 @@ Status: 🟢 TRAINING IN PROGRESS — Expected convergence: Aug 2027
 <br/>
 
 [![Email](https://img.shields.io/badge/Email_Me-lakshitsaini1098@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a)](mailto:lakshitsaini1098@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-lakshit--saini1306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://linkedin.com/in/lakshit-saini1306)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-lakshit--saini1306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://www.linkedin.com/in/lakshit-saini1306/)
 [![GitHub](https://img.shields.io/badge/Explore_My_Work-lakshit2234-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a)](https://github.com/lakshit2234)
 
 <br/>
 
 **Currently open to:**
 
-`Research Internships` &nbsp; `IEEE Co-authorship` &nbsp; `AI/ML Roles` &nbsp; `Quantum ML Collabs` &nbsp; `Hackathon Teams` &nbsp; `Grad School`
+`Research Internships` &nbsp; `Paper Co-authorship` &nbsp; `AI/ML Roles` &nbsp; `Quantum ML Collabs` &nbsp; `Hackathon Teams` &nbsp; `Grad School`
 
-<br/><br/>
+<br/>
+
+```
+        |ψ⟩ = α|build⟩ + β|research⟩        — collapse the wavefunction: say hi.
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:0a0a0f&height=120&section=footer" width="100%"/>
 
@@ -715,6 +752,6 @@ Status: 🟢 TRAINING IN PROGRESS — Expected convergence: Aug 2027
 
 <!-- ─────────────────────────────────────────── -->
 <!-- README crafted with research-grade precision -->
-<!-- Custom SVG animations · Quantum-themed identity -->
-<!-- Last updated: 2026                           -->
+<!-- Custom SMIL-animated SVGs · Quantum identity  -->
+<!-- Last updated: 2026                            -->
 <!-- ─────────────────────────────────────────── -->
