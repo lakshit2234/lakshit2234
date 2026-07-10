@@ -19,14 +19,14 @@
 
 <!-- ░░░ TYPING SVG ░░░ -->
 <a href="https://github.com/lakshit2234">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+Intelligent+Systems+That+Think+%F0%9F%A7%A0;Hybrid+LSTM+%E2%80%94+Diffusion+%E2%80%94+Agentic+AI+%F0%9F%A4%96;Exploring+Quantum+ML+%26+Quantum+Federated+Learning+%E2%9A%9B%EF%B8%8F;From+Research+Lab+to+Production+Deployment+%F0%9F%9A%80;2%C3%97+Published+%C2%B7+4%C3%97+Award-Winning+Researcher+%F0%9F%93%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=AI+Research+Intern+%40+DIAT-DU+%28DRDO%29+%F0%9F%9B%B0%EF%B8%8F;Building+Autonomous+Drone+Swarm+Intelligence+%F0%9F%A7%A0;Hybrid+LSTM+%E2%80%94+Diffusion+%E2%80%94+Agentic+AI+%F0%9F%A4%96;Exploring+Quantum+ML+%26+Quantum+Federated+Learning+%E2%9A%9B%EF%B8%8F;From+Research+Lab+to+Production+Deployment+%F0%9F%9A%80;2%C3%97+Published+%C2%B7+4%C3%97+Award-Winning+Researcher+%F0%9F%93%84" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lakshit2234&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/lakshit2234)
 [![GitHub followers](https://img.shields.io/github/followers/lakshit2234?style=for-the-badge&color=7c3aed&labelColor=0d1b2a&label=FOLLOWERS)](https://github.com/lakshit2234?tab=followers)
-[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Research_%26_AI_Roles-00d4ff?style=for-the-badge&labelColor=0d1b2a)](mailto:lakshitsaini1098@gmail.com)
+[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-AI%2FML_%26_Research_Roles-00d4ff?style=for-the-badge&labelColor=0d1b2a)](mailto:lakshitsaini1098@gmail.com)
 
 <br/>
 
@@ -36,9 +36,9 @@
 
 <br/><br/>
 
-> **`"Designing intelligence — from behavioral trajectories to autonomous agents to the quantum edge."`**
+> **`"Designing intelligence — from autonomous drone swarms to generative models to the quantum edge."`**
 >
-> 📍 Pune, India &nbsp;|&nbsp; 🎓 B.Tech CSE (AI/ML) · CGPA 9.1 &nbsp;|&nbsp; 📄 2× Published Researcher &nbsp;|&nbsp; 🏆 4× Award Winner
+> 📍 Pune, India &nbsp;|&nbsp; 🛰️ AI Research Intern @ DIAT-DU (DRDO) &nbsp;|&nbsp; 🎓 B.Tech CSE (AI/ML) · CGPA 9.1 &nbsp;|&nbsp; 📄 2× Published &nbsp;|&nbsp; 🏆 4× Awards
 
 </div>
 
@@ -54,30 +54,32 @@
 ```python
 class LakshitSaini:
     """
-    Third-year AI/ML Engineer who doesn't just study intelligence —
+    Final-year AI/ML Engineer who doesn't just study intelligence —
     he builds it, publishes it, and ships it to production.
-    Now extending the stack into the quantum regime.
+    Currently researching autonomous drone swarm AI at DRDO,
+    while extending the stack into the quantum regime.
     """
 
     identity   = "AI Engineer × Researcher × Builder"
     university = "DY Patil International University, Pune"
     cgpa       = 9.1 / 10
+    right_now  = "AI Research Intern @ DIAT-DU (DRDO) — defence swarm intelligence"
 
     current_obsessions = [
+        "Multi-Agent RL (MAPPO) for 50-agent autonomous drone swarms",
         "Hybrid LSTM–Diffusion architectures for human-like synthesis",
         "Agentic LLM systems with multi-agent orchestration",
         "Quantum ML: variational circuits for hybrid quantum-classical models",
-        "Quantum Federated Learning: privacy-preserving distributed QML",
         "Speech disfluency detection via self-supervised learning",
-        "AI security: prompt injection & adversarial robustness",
+        "AI security: prompt injection, Zero Trust & adversarial robustness",
     ]
 
     research_mission = """
         Bridge cutting-edge ML research and real-world production systems —
-        and probe what quantum computation adds when classical hits its ceiling.
+        from contested defence environments to the quantum edge.
     """
 
-    superpower = "Turning research ideas into publication-grade papers AND live demos"
+    superpower = "Turning research ideas into publication-grade papers AND deployed systems"
     fun_fact   = "Built a trajectory model so human-like it fooled 100% of bot detectors 🤫"
 ```
 
@@ -91,20 +93,77 @@ class LakshitSaini:
 <b>2 Publications</b><br/><sub>NCTAAI 4.0 · IJSREM</sub><br/><sub>+1 under submission (IEEE)</sub>
 </td>
 <td align="center" width="200">
+<img src="https://img.shields.io/badge/-Experience-0d1b2a?style=for-the-badge&logo=dji&logoColor=00d4ff"/><br/>
+<b>3 Internships</b><br/><sub>DRDO · Dexpert · ICAR</sub><br/><sub>Defence AI · SDE · Research</sub>
+</td>
+<td align="center" width="200">
 <img src="https://img.shields.io/badge/-Awards-0d1b2a?style=for-the-badge&logo=googlecloudstorage&logoColor=f5a623"/><br/>
 <b>4 Awards</b><br/><sub>National · State · University</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/-Projects-0d1b2a?style=for-the-badge&logo=rocket&logoColor=00d4ff"/><br/>
-<b>6 Projects</b><br/><sub>Research + Production</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-Datasets-0d1b2a?style=for-the-badge&logo=databricks&logoColor=00d4ff"/><br/>
-<b>212,568 Samples</b><br/><sub>Custom behavioral dataset</sub>
+<b>6 Projects</b><br/><sub>Research + Production</sub><br/><sub>212,568-sample custom dataset</sub>
 </td>
 </tr>
 </table>
 </div>
+
+<img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+<div align="center">
+
+## 💼 &nbsp; E X P E R I E N C E
+
+*From national defence research to production-grade engineering — a harder problem every year.*
+
+</div>
+
+<table>
+<tr>
+<td width="5%" align="center">🛰️</td>
+<td>
+
+**AI Research Intern · DIAT-DU (DRDO)** — Pune, India &nbsp;·&nbsp; `May 2026 – Present`
+
+Researching **AI-driven autonomous drone swarm systems** for defence applications — decentralized multi-agent coordination for cooperative search and target detection across swarms of up to **50 agents** in 3D simulation. Developing **MAPPO** multi-agent reinforcement learning policies, **YOLOv8**-based aerial target detection, **Zero Trust** security architecture, and adversarial AI robustness frameworks for swarm intelligence in contested defence environments.
+
+![MARL](https://img.shields.io/badge/Multi--Agent_RL_%28MAPPO%29-7c3aed?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00d4ff?style=flat-square)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust_Security-e11d48?style=flat-square)
+![Swarm](https://img.shields.io/badge/Swarm_Intelligence-f5a623?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center">⚙️</td>
+<td>
+
+**Software Engineering Intern · Dexpert Systems Pvt. Ltd.** — Pune, India &nbsp;·&nbsp; `May 2025 – July 2025`
+
+Engineered **production-grade RESTful microservices** with Node.js, Express.js, TypeScript, Sequelize ORM, and MySQL — modular, independently deployable architecture serving enterprise client modules. Integrated **Razorpay payment APIs** and **CryptoJS-encrypted transaction pipelines** with OTP-based authentication, delivering secure end-to-end financial backend workflows.
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">🌾</td>
+<td>
+
+**Research Intern · ICAR-NIASM** — Baramati, India &nbsp;·&nbsp; `May 2024 – July 2024`
+
+Leveraged **DelPro** dairy-processing software to organize and analyze farm-level operational data, enabling data-driven decisions for livestock management and productivity. Designed structured data-collection templates and conducted field interviews with farmers to standardize agricultural data workflows.
+
+![Data](https://img.shields.io/badge/Data_Analysis-10b981?style=flat-square)
+![Field Research](https://img.shields.io/badge/Field_Research-00d4ff?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/quantum-divider.svg" width="100%" alt="quantum circuit divider"/>
 
@@ -120,7 +179,7 @@ class LakshitSaini:
 > My newest research direction: pushing machine learning beyond classical limits.
 > I'm building intuition and prototypes around **hybrid quantum–classical models** and
 > **privacy-preserving distributed learning** — the natural next layer on top of my
-> diffusion, agentic, and behavioral-AI work.
+> swarm, diffusion, agentic, and behavioral-AI work.
 
 <table>
 <tr>
@@ -139,7 +198,7 @@ class LakshitSaini:
 - Distributed QML across non-IID clients
 - Parameter aggregation of quantum circuit weights
 - Privacy-preserving training without raw-data sharing
-- Bridging my LLM-security focus into quantum trust models
+- Bridging my Zero-Trust & LLM-security work into quantum trust models
 
 </td>
 </tr>
@@ -153,7 +212,8 @@ class LakshitSaini:
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1b2a','primaryTextColor':'#00d4ff','primaryBorderColor':'#7c3aed','lineColor':'#f5a623','fontSize':'14px'}}}%%
 graph LR
     A[🧠 MIMIC<br/>hybrid LSTM × Diffusion] -- "hybrid architecture DNA" --> Q{{⚛️ Hybrid<br/>Quantum-Classical<br/>Models}}
-    B[🛡️ AI Security Taxonomy<br/>NCTAAI 4.0 🏆] -- "adversarial & trust research" --> F{{🔐 Quantum<br/>Federated<br/>Learning}}
+    G[🛰️ DRDO Drone Swarms<br/>MAPPO × YOLOv8] -- "decentralized coordination & trust" --> F{{🔐 Quantum<br/>Federated<br/>Learning}}
+    B[🛡️ AI Security Taxonomy<br/>NCTAAI 4.0 🏆] -- "adversarial & trust research" --> F
     C[📗 Edge ML on MCUs<br/>IJSREM] -- "resource-constrained learning" --> F
     D[🤖 InsightCrew + StonkSensei<br/>multi-agent systems] -- "distributed orchestration" --> F
     E[🗣️ Speech Disfluency<br/>self-supervised Wav2Vec 2.0] -- "representation learning" --> Q
@@ -205,6 +265,19 @@ graph LR
 </details>
 
 <details open>
+<summary><b>🛰️ &nbsp; Autonomous Systems & Reinforcement Learning</b></summary>
+<br/>
+
+![MAPPO](https://img.shields.io/badge/MAPPO_Multi--Agent_RL-7c3aed?style=for-the-badge&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8_Aerial_Detection-00d4ff?style=for-the-badge&logoColor=black)
+![Swarm](https://img.shields.io/badge/Drone_Swarm_Intelligence-f5a623?style=for-the-badge&logoColor=black)
+![3D Sim](https://img.shields.io/badge/3D_Swarm_Simulation-10b981?style=for-the-badge&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust_Architecture-e11d48?style=for-the-badge&logoColor=white)
+![Adversarial](https://img.shields.io/badge/Adversarial_AI_Robustness-9b8cff?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
 <summary><b>🤖 &nbsp; LLM & Agentic AI</b></summary>
 <br/>
 
@@ -238,9 +311,13 @@ graph LR
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-8b5cf6?style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize_ORM-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Microservices](https://img.shields.io/badge/RESTful_Microservices-0d1b2a?style=for-the-badge&logoColor=00d4ff)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -252,6 +329,7 @@ graph LR
 <br/>
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00d4ff?style=for-the-badge&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
 ![Signal Processing](https://img.shields.io/badge/Signal_Processing-7c3aed?style=for-the-badge&logoColor=white)
 ![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -285,8 +363,9 @@ graph LR
 **Results:**
 - 📊 JSD = **0.1478** (near-perfect human distribution match)
 - 📈 Smoothness Index = **0.8593**
-- 🛡️ Bot-Detector Evasion = **100%** (vs 0% LSTM-only)
+- 🛡️ Bot-Detector Evasion = **100%** (vs 0% LSTM-only baseline)
 - 📦 Custom dataset: **212,568 samples** across 4 behavioral profiles
+- ⚙️ Benchmarked **ADE/MSE + inference latency** across evaluation conditions
 
 </td>
 <td width="40%" align="center">
@@ -325,7 +404,7 @@ graph LR
 
 **Impact:**
 - ♾️ Fully autonomous research-to-content pipeline
-- 🌐 Production-deployed on Streamlit Cloud
+- 🌐 Production-deployed on Streamlit Cloud — 100% Python
 - ⚡ Real-time RAG via Tavily API
 
 </td>
@@ -360,7 +439,7 @@ graph LR
 
 **Problem:** Financial analysis requires aggregating real-time data, news, and quantitative reasoning simultaneously — a perfect multi-agent problem.
 
-**Innovation:** Dual-agent phidata system with Groq's `deepseek-r1-distill-llama-70b` for streaming inference, DuckDuckGo + Yahoo Finance as live data tools, served via FastAPI.
+**Innovation:** Dual-agent phidata system with Groq's `deepseek-r1-distill-llama-70b` for streaming inference, DuckDuckGo + Yahoo Finance as live data tools, served via FastAPI + Uvicorn.
 
 **Impact:**
 - ⚡ Low-latency streaming LLM responses
@@ -400,8 +479,9 @@ graph LR
 **Innovation:** Fine-tuned Wav2Vec 2.0 on SEP-28k for 5-class disfluency detection + a Whisper-aligned remediation pipeline with acoustic robustness validation.
 
 **Results:**
-- 🎯 WER < **0.15** (Whisper-aligned)
+- 🎯 WER < **0.15** (Whisper-aligned transcription)
 - 🔊 Validated across **5–25 dB SNR** noise conditions
+- 📐 Evaluated **MOS + LPC metrics (LLR, ISD)** for remediation quality
 - 🏥 5 stutter categories classified
 
 </td>
@@ -413,7 +493,7 @@ graph LR
 
 <br/>
 
-**Status:** 🔬 Active Research
+**Status:** 🔬 Active Research · Jan 2026 – Present
 
 `Speech ML` `Accessibility` `Self-Supervised`
 
@@ -526,8 +606,8 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 
 **Research Interests**
 
-`LLM Security & Adversarial AI` · `Generative Models` · `Speech ML` · `Behavioral Biometrics`
-`Agentic Systems` · `Quantum ML & Quantum FL` · `Edge AI / TinyML` · `Implicit Neural Representations`
+`Multi-Agent RL & Swarm Intelligence` · `LLM Security & Adversarial AI` · `Generative Models` · `Speech ML`
+`Behavioral Biometrics` · `Agentic Systems` · `Quantum ML & Quantum FL` · `Edge AI / TinyML` · `Implicit Neural Representations`
 
 </div>
 
@@ -613,10 +693,11 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 2023 ──────────────────────────────────────────────────────────────── 2027
   │
   ├─── Aug 2023 ──▶  🎓  B.Tech CSE (AI/ML) · DY Patil International University
+  ├─── May 2024 ──▶  🌾  Research Intern · ICAR-NIASM · Agricultural Data Systems
   ├─── Oct 2024 ──▶  📗  Published: Predictive Maintenance on Microcontrollers · IJSREM
   ├─── Dec 2024 ──▶  🥇  1st Rank · State-Level Research Paper · MITACSC
-  ├─── Mar 2025 ──▶  📘  Research Paper Award · NCTAAI 4.0 · ICEM
   ├─── Feb–May 2025 ▶  🤟  SignSpeakAI · Multimodal Sign–Speech Translation
+  ├─── Mar 2025 ──▶  📘  Research Paper Award · NCTAAI 4.0 · ICEM
   ├─── May 2025 ──▶  💼  Software Engineering Intern · Dexpert Systems Pvt. Ltd.
   ├─── May 2025 ──▶  🤖  InsightCrew · Multi-Agent Research Engine (Production)
   ├─── May 2025 ──▶  📈  StonkSensei · Agentic Financial Intelligence System
@@ -624,8 +705,9 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
   ├─── Nov 2025 ──▶  🏆  1st Rank Ideathon 2025 · DY Patil International University
   ├─── Jan 2026 ──▶  ✅  MIMIC Complete · JSD=0.1478 · 100% Bot Evasion
   ├─── Jan 2026 ──▶  🗣️  Speech Disfluency Detection Research · Active
-  ├─── 2026 ─────▶  ⚛️  Quantum ML & Quantum FL · Exploration Track Begun
   ├─── 2026 ─────▶  🎓  Academic Excellence Scholarship · DYPIU
+  ├─── 2026 ─────▶  ⚛️  Quantum ML & Quantum FL · Exploration Track Begun
+  ├─── May 2026 ──▶  🛰️  AI Research Intern · DIAT-DU (DRDO) · Autonomous Drone Swarm AI
   └─── 2027 ─────▶  🚀  B.Tech Graduation · Ready to build the future
 ```
 
@@ -635,7 +717,7 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1b2a','primaryTextColor':'#00d4ff','lineColor':'#f5a623','fontSize':'13px'}}}%%
 timeline
     title From Classical Orbit to Quantum Deep Space
-    2026 : Ship Speech Disfluency System : MIMIC → IEEE submission : First VQC prototypes (PennyLane · Qiskit)
+    2026 : AI Research Intern @ DIAT-DU (DRDO) — Drone Swarm AI : Ship Speech Disfluency System : MIMIC → IEEE submission : First VQC prototypes (PennyLane · Qiskit)
     2027 : B.Tech graduation : Hybrid quantum-classical paper : Open-source QML tooling
     2028 : Graduate research — Quantum ML : QFL simulation framework
     2029 : Publish in QML venues : Quantum NLP / CV experiments
@@ -656,27 +738,30 @@ timeline
 <td width="50%" valign="top">
 
 **🚀 Currently Building**
+- Autonomous drone swarm AI @ DRDO — MAPPO policies for 50-agent coordination
+- YOLOv8 aerial target detection + Zero Trust swarm security
 - Speech Disfluency Detection with real-time remediation
 - MIMIC IEEE paper finalization & journal submission
-- First quantum ML prototypes (VQC classifiers)
 
 **📚 Researching**
+- Decentralized multi-agent coordination in contested environments
+- Adversarial AI robustness for defence-grade systems
 - Diffusion architectures for controllable generation
 - LLM safety: adversarial prompt attacks & defenses
-- Self-supervised speech representation learning
 
 </td>
 <td width="50%" valign="top">
 
 **🎯 Currently Learning**
 - Quantum ML & Quantum Federated Learning
-- Advanced multi-agent orchestration patterns
-- Reinforcement Learning for agentic decision-making
+- Advanced multi-agent RL & swarm orchestration patterns
+- First VQC prototypes (PennyLane · Qiskit)
 
 **🤝 Open to Collaborate On**
 - ML Research (publication-grade)
 - Agentic AI / LLM Systems & Quantum ML
-- AI for Healthcare, Accessibility, or Security
+- Autonomous Systems, Defence AI & Security
+- AI for Healthcare & Accessibility
 - Hackathons & Research Internships
 
 </td>
@@ -700,13 +785,17 @@ timeline
 </div>
 
 ```yaml
-Model Architecture: Lakshit-v3.2-Researcher-Builder
+Model Architecture: Lakshit-v4.0-Researcher-Builder
 
 Training Data:
-  - 2+ years of AI/ML coursework & self-study
+  - 3 internships — DRDO Defence AI · Production SDE · Applied Research
+  - 3 years of AI/ML coursework & self-study
   - 212,568 custom behavioral motion samples (self-collected)
-  - 2 published research papers
+  - 2 published research papers (+1 under IEEE submission)
   - 6 production/research projects shipped
+
+Fine-Tuning (current epoch):
+  - Multi-Agent RL on 50-agent autonomous drone swarms @ DRDO
 
 Activation Functions:
   - Curiosity-driven exploration
@@ -743,7 +832,7 @@ Status: 🟢 TRAINING IN PROGRESS — Expected convergence: Aug 2027
 
 **Currently open to:**
 
-`Research Internships` &nbsp; `Paper Co-authorship` &nbsp; `AI/ML Roles` &nbsp; `Quantum ML Collabs` &nbsp; `Hackathon Teams` &nbsp; `Grad School`
+`AI/ML & Research Roles` &nbsp; `Research Internships` &nbsp; `Paper Co-authorship` &nbsp; `Defence & Autonomous Systems` &nbsp; `Quantum ML Collabs` &nbsp; `Hackathon Teams` &nbsp; `Grad School`
 
 <br/>
 
