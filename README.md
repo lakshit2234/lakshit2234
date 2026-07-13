@@ -671,9 +671,9 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 <summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions — requires activity.yml workflow, provided)</sub></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31544](https://github.com/numpy/numpy/pull/31544) in [numpy/numpy](https://github.com/numpy/numpy)
-2. 🗣 Commented on [#25264](https://github.com/scipy/scipy/pull/25264#issuecomment-4583784644) in [scipy/scipy](https://github.com/scipy/scipy)
-3. 💪 Opened PR [#25264](https://github.com/scipy/scipy/pull/25264) in [scipy/scipy](https://github.com/scipy/scipy)
+1. 🗣 Commented on [#1](https://github.com/lakshit2234/SAGE/pull/1#issuecomment-4958185413) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
+2. ❌ Closed PR [#1](https://github.com/lakshit2234/SAGE/pull/1) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
+3. 💪 Opened PR [#1](https://github.com/lakshit2234/SAGE/pull/1) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
 4. 🗣 Commented on [#25263](https://github.com/scipy/scipy/pull/25263#issuecomment-4583721652) in [scipy/scipy](https://github.com/scipy/scipy)
 5. 💪 Opened PR [#25263](https://github.com/scipy/scipy/pull/25263) in [scipy/scipy](https://github.com/scipy/scipy)
 <!--END_SECTION:activity-->
