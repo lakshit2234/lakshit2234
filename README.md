@@ -671,11 +671,11 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 <summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions — requires activity.yml workflow, provided)</sub></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/lakshit2234/SAGE/pull/1#issuecomment-4958185413) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
-2. ❌ Closed PR [#1](https://github.com/lakshit2234/SAGE/pull/1) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
-3. 💪 Opened PR [#1](https://github.com/lakshit2234/SAGE/pull/1) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
-4. 🗣 Commented on [#25263](https://github.com/scipy/scipy/pull/25263#issuecomment-4583721652) in [scipy/scipy](https://github.com/scipy/scipy)
-5. 💪 Opened PR [#25263](https://github.com/scipy/scipy/pull/25263) in [scipy/scipy](https://github.com/scipy/scipy)
+1. 💪 Opened PR [#3](https://github.com/lakshit2234/SAGE/pull/3) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
+2. 💪 Opened PR [#2](https://github.com/lakshit2234/SAGE/pull/2) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
+3. 🗣 Commented on [#1](https://github.com/lakshit2234/SAGE/pull/1#issuecomment-4958185413) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
+4. ❌ Closed PR [#1](https://github.com/lakshit2234/SAGE/pull/1) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
+5. 💪 Opened PR [#1](https://github.com/lakshit2234/SAGE/pull/1) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
 <!--END_SECTION:activity-->
 
 </details>
