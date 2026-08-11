@@ -671,11 +671,11 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 <summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions — requires activity.yml workflow, provided)</sub></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/lakshit2234/SAGE/pull/3) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
-2. 💪 Opened PR [#2](https://github.com/lakshit2234/SAGE/pull/2) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
-3. 🗣 Commented on [#1](https://github.com/lakshit2234/SAGE/pull/1#issuecomment-4958185413) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
-4. ❌ Closed PR [#1](https://github.com/lakshit2234/SAGE/pull/1) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
-5. 💪 Opened PR [#1](https://github.com/lakshit2234/SAGE/pull/1) in [lakshit2234/SAGE](https://github.com/lakshit2234/SAGE)
+1. 💪 Opened PR [#2](https://github.com/Faiza-Bagban/AutoStartup-Simulator/pull/2) in [Faiza-Bagban/AutoStartup-Simulator](https://github.com/Faiza-Bagban/AutoStartup-Simulator)
+2. 🎉 Merged PR [#21](https://github.com/YeshitaMotwani/AutoStartup-Simulator/pull/21) in [YeshitaMotwani/AutoStartup-Simulator](https://github.com/YeshitaMotwani/AutoStartup-Simulator)
+3. 💪 Opened PR [#21](https://github.com/YeshitaMotwani/AutoStartup-Simulator/pull/21) in [YeshitaMotwani/AutoStartup-Simulator](https://github.com/YeshitaMotwani/AutoStartup-Simulator)
+4. 🎉 Merged PR [#1](https://github.com/Faiza-Bagban/AutoStartup-Simulator/pull/1) in [Faiza-Bagban/AutoStartup-Simulator](https://github.com/Faiza-Bagban/AutoStartup-Simulator)
+5. 💪 Opened PR [#1](https://github.com/Faiza-Bagban/AutoStartup-Simulator/pull/1) in [Faiza-Bagban/AutoStartup-Simulator](https://github.com/Faiza-Bagban/AutoStartup-Simulator)
 <!--END_SECTION:activity-->
 
 </details>
