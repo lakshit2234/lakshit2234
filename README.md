@@ -671,11 +671,11 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 <summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions — requires activity.yml workflow, provided)</sub></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/YeshitaMotwani/AutoStartup-Simulator/pull/24) in [YeshitaMotwani/AutoStartup-Simulator](https://github.com/YeshitaMotwani/AutoStartup-Simulator)
-2. 💪 Opened PR [#23](https://github.com/YeshitaMotwani/AutoStartup-Simulator/pull/23) in [YeshitaMotwani/AutoStartup-Simulator](https://github.com/YeshitaMotwani/AutoStartup-Simulator)
-3. 💪 Opened PR [#2](https://github.com/Faiza-Bagban/AutoStartup-Simulator/pull/2) in [Faiza-Bagban/AutoStartup-Simulator](https://github.com/Faiza-Bagban/AutoStartup-Simulator)
-4. 🎉 Merged PR [#21](https://github.com/YeshitaMotwani/AutoStartup-Simulator/pull/21) in [YeshitaMotwani/AutoStartup-Simulator](https://github.com/YeshitaMotwani/AutoStartup-Simulator)
-5. 💪 Opened PR [#21](https://github.com/YeshitaMotwani/AutoStartup-Simulator/pull/21) in [YeshitaMotwani/AutoStartup-Simulator](https://github.com/YeshitaMotwani/AutoStartup-Simulator)
+1. 🎉 Merged PR [#9](https://github.com/lakshit2234/tac-risk-gate/pull/9) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+2. 💪 Opened PR [#9](https://github.com/lakshit2234/tac-risk-gate/pull/9) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+3. 🎉 Merged PR [#8](https://github.com/lakshit2234/tac-risk-gate/pull/8) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+4. 💪 Opened PR [#8](https://github.com/lakshit2234/tac-risk-gate/pull/8) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+5. 🎉 Merged PR [#7](https://github.com/lakshit2234/tac-risk-gate/pull/7) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
 <!--END_SECTION:activity-->
 
 </details>
