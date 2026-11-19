@@ -671,11 +671,11 @@ Hybrid LSTM prior + conditional residual DDPM for context-aware behavioral traje
 <summary><b>⚡ &nbsp; Recent Activity</b> &nbsp;<sub>(auto-updates daily via GitHub Actions — requires activity.yml workflow, provided)</sub></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/lakshit2234/tac-risk-gate/pull/9) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
-2. 💪 Opened PR [#9](https://github.com/lakshit2234/tac-risk-gate/pull/9) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
-3. 🎉 Merged PR [#8](https://github.com/lakshit2234/tac-risk-gate/pull/8) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
-4. 💪 Opened PR [#8](https://github.com/lakshit2234/tac-risk-gate/pull/8) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
-5. 🎉 Merged PR [#7](https://github.com/lakshit2234/tac-risk-gate/pull/7) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+1. 🎉 Merged PR [#11](https://github.com/lakshit2234/tac-risk-gate/pull/11) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+2. 💪 Opened PR [#11](https://github.com/lakshit2234/tac-risk-gate/pull/11) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+3. 🎉 Merged PR [#10](https://github.com/lakshit2234/tac-risk-gate/pull/10) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+4. 💪 Opened PR [#10](https://github.com/lakshit2234/tac-risk-gate/pull/10) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
+5. 🎉 Merged PR [#9](https://github.com/lakshit2234/tac-risk-gate/pull/9) in [lakshit2234/tac-risk-gate](https://github.com/lakshit2234/tac-risk-gate)
 <!--END_SECTION:activity-->
 
 </details>
